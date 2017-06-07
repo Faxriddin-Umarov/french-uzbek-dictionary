@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Uzbek-French Dictionary</string>
+    <string name="searchable_edit_text_hint">Qidirish</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_swap_languages">Swap languages</string>
+    <string name="fr_to_uz">French-Uzbek</string>
+    <string name="uz_to_fr">Uzbek-French</string>
+    <string name="action_favorite_words">Favorite words</string>
+    <string name="action_add_word">Yangi so\'z qo\'shish</string>
+    <string name="add_word">Qo\'shish</string>
+    <string name="french_ouzbek">French-Ouzbek</string>
+    <string name="o_zbek_fransuz">O\'zbek-Fransuz</string>
+    <string name="splash_title">Lug\'at \nDictionnaire</string>
+</resources>
